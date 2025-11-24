@@ -2,7 +2,7 @@
 ===============================================
 [TOC]
 
-v0.0.3  22-11-2025
+v0.0.4  24-11-2025
 
 Un percorso bilanciato tra la Praga turistica "classica" e quella industriale/alternativa.
 
@@ -11,34 +11,31 @@ Un percorso bilanciato tra la Praga turistica "classica" e quella industriale/al
 
 ### Mattina (09:00 - 13:00)
 * **Piazza della Repubblica (Náměstí Republiky):**
-    * Ammira la **Casa Municipale** (Art Nouveau) e la **Torre delle Polveri** (Gotico).
+    1. Ammira la **Casa Municipale** (Art Nouveau) e la **Torre delle Polveri** (Gotico).
 * **Piazza della Città Vecchia (Staroměstské náměstí):**
-    * **Orologio Astronomico:** Fermati per lo scoccare dell'ora.
-    * *Tech Note:* Osserva il quadrante dell'astrolabio: è un computer analogico medievale che calcola posizione di Sole, Luna e Zodiaco in tempo reale.
-* **Clementinum:**
-    * 📍 *Indirizzo:* Mariánské nám. 5
-    * ⚠️ **Prenotazione:** Fortemente consigliata online.
-    * *Cosa vedere:* La **Biblioteca Barocca** (una delle più belle al mondo) e la **Torre Astronomica** (dove Keplero lavorò).
-
+    1. **Orologio Astronomico:** Fermati per lo scoccare dell'ora. *Tech Note:* Osserva il quadrante dell'astrolabio: è un computer analogico medievale che calcola posizione di Sole, Luna e Zodiaco in tempo reale.
+* **Clementinum:** (Mariánské nám. 5)  ⚠️ **Prenotare(ONLINE):**
+    1. Cosa vedere:* La **Biblioteca Barocca** (una delle più belle al mondo)
+    2. **Torre Astronomica** (dove Keplero lavorò)
+    
 ### Pranzo
-* Evita la piazza principale. Cerca nelle vie laterali come *Dlouhá* o *Masná*.
-    * *Consiglio:* **Lokál Dlouhááá** (Cucina ceca classica, ottima birra).
+⚠️ Evita la piazza principale. Cerca nelle vie laterali come *Dlouhá* o *Masná*.
+<br>(Consiglio:) **Lokál Dlouhááá** (Cucina ceca classica, ottima birra).
 
 ### Pomeriggio (14:30 - 17:30)
 * **Quartiere Ebraico (Josefov):**
-    * **Sinagoga Vecchia-Nuova (Old-New Synagogue):** La più antica sinagoga attiva in Europa. Legata alla leggenda del *Golem* (robotica ante-litteram).
-    * **Vecchio Cimitero Ebraico:** Un'esperienza visiva unica per la densità delle lapidi.
+    1. **Sinagoga Vecchia-Nuova (Old-New Synagogue):** La più antica sinagoga attiva in Europa. Legata alla leggenda del *Golem* (robotica ante-litteram).
+    2. **Vecchio Cimitero Ebraico:** Un'esperienza visiva unica per la densità delle lapidi.
 
 ### Sera
 * **Ponte Carlo:** Attraversalo al tramonto verso il quartiere di Malá Strana. La luce è migliore e la folla inizia a diminuire.
 
----
-
-## 🗓️ Giorno 2: Potere Imperiale & Ingegneria Barocca
+# Giorno 2: Potere Imperiale & Ingegneria Barocca
 *Focus: Il Castello, Panorami e Malá Strana.*
 
 ### Mattina (09:00 - 12:30)
-* 🚋 **Trasporto:** Prendi il **Tram 22** fino alla fermata **Pohořelec** (inizia il tour dall'alto per scendere a piedi).
+**Trasporto:** Prendi il **Tram 22** fino alla fermata **Pohořelec** (inizia il tour dall'alto per scendere a piedi)
+
 * **Monastero di Strahov:**
     * Visita le due sale della biblioteca: **Teologica** e **Filosofica**.
 * **Santuario di Loreta:** Scendi a piedi verso il Loreto. Ascolta il carillon nell'orologio.
@@ -54,11 +51,9 @@ Un percorso bilanciato tra la Praga turistica "classica" e quella industriale/al
     * *Tech Note:* È così stretta (70 cm) che ha un **semaforo pedonale** per evitare che le persone si incastrino.
 
 ### Sera
-* Cena a Malá Strana. È più tranquilla e romantica rispetto alla Città Vecchia.
+* Cena a Malá Strana. È più tranquilla e romantica rispetto alla Città Vecchia
 
----
-
-## 🗓️ Giorno 3: Storia Oscura & Architettura Moderna
+# Giorno 3: Storia Oscura & Architettura Moderna
 *Focus: Terezin (Mattina) e Città Nuova (Pomeriggio).*
 
 ### Mattina (08:30 - 14:00) - Terezin
@@ -77,11 +72,9 @@ Un percorso bilanciato tra la Praga turistica "classica" e quella industriale/al
     * *Storia:* Il luogo dell'ultima resistenza dei paracadutisti che uccisero Heydrich. Si vedono ancora i segni dei proiettili.
 * **Testa Rotante di Franz Kafka:**
     * 📍 *Dove:* Metro **Národní třída** (dietro centro commerciale Quadrio).
-    * *Tech:* Scultura meccatronica di 42 tonnellate a strati indipendenti. Si muove solitamente ogni 15 minuti (es. 15:00, 15:15).
+    * *Tech:* Scultura meccatronica di 42 tonnellate a strati indipendenti. Si muove solitamente ogni 15 minuti (es. 15:00, 15:15)
 
----
-
-## 🗓️ Giorno 4: Industrial Tech & Hackers
+# Giorno 4: Industrial Tech & Hackers
 *Focus: Ingegneria a vapore e Community Hacker.*
 
 ### Mattina (09:30 - 12:30)
@@ -101,11 +94,9 @@ Un percorso bilanciato tra la Praga turistica "classica" e quella industriale/al
     * 📍 *Indirizzo:* **Pod Kapličkou 20**, Praga 10 (Zona Strašnice).
     * ⚠️ *Nota:* Non è più a Holešovice (molte guide vecchie sbagliano).
     * 🕒 **Quando:** Il momento migliore è **Martedì sera** (dalle 19:30 / 20:00 in poi).
-    * *Cosa:* È un evento sociale aperto ("Open hours"). Suona il campanello, entra, presentati. Troverai gente che lavora su biologia DIY, elettronica, radio o semplicemente beve una birra (Club-Mate).
+    * *Cosa:* È un evento sociale aperto ("Open hours"). Suona il campanello, entra, presentati. Troverai gente che lavora su biologia DIY, elettronica, radio o semplicemente beve una birra (Club-Mate)
 
----
-
-## 🗓️ Giorno 5: Chiusura & Underground Urbano
+# Giorno 5: Chiusura & Underground Urbano
 *Focus: Piazza Venceslao e Relax.*
 
 ### Mattina (10:00 - 13:00)
@@ -122,7 +113,7 @@ Un percorso bilanciato tra la Praga turistica "classica" e quella industriale/al
 
 ---
 
-### 📝 Riepilogo Logistico
+# Riepilogo Logistico
 
 | Luogo | Indirizzo | Note / Orari Chiave |
 | :--- | :--- | :--- |
@@ -131,6 +122,9 @@ Un percorso bilanciato tra la Praga turistica "classica" e quella industriale/al
 | **Sinagoga V-N** | Josefov | Chiusa il **Sabato** (Shabbat). |
 | **Galleria Nazionale** | Dukelských Hrdinů 47 | Chiusa il **Lunedì**. |
 | **Trasporti** | App: **PID Lítačka** | Acquista i biglietti tram/metro qui. |
+
+# Hotel and Stay
+??
 
 
 # Disco
